@@ -8,7 +8,7 @@ Yo! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [dragatakisemm@gmail.com](mailto:dragatakisemm@gmail.com)
-* 🚀  I'm currently working on [Orion Studios Network](http://discord.gg/cRTfFaZB6k)
+* 🚀  I'm currently working on [Orion Network](http://discord.gg/cRTfFaZB6k)
 * 🧠  I'm learning FiveM Development & more...
 * 🎓  Computer Science Department
 
