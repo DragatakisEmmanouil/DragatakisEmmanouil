@@ -9,14 +9,14 @@ Yo! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [dragatakisemm@gmail.com](mailto:dragatakisemm@gmail.com)
 * 🚀  I'm currently working on [Orion Network](http://discord.gg/cRTfFaZB6k)
-* 🧠  I'm learning FiveM Development & more...
+* 🎯  I'm learning FiveM Development & more...
 * 🎓  Computer Science Department
 
 <a href="https://www.github.com/LazerCodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LazerCodes?logo=github&style=for-the-badge&color=000000&labelColor=000000" /></a><a href="https://www.twitch.tv/Lazerofficial" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/Lazerofficial?logo=twitchsx&style=for-the-badge&color=000000&labelColor=000000&label=TWITCH+STATUS" /></a>
 
-### My Tech Skills
+### 🧠 My Tech Skills
 
 
 <p align="left">
@@ -24,17 +24,17 @@ src="https://img.shields.io/twitch/status/Lazerofficial?logo=twitchsx&style=for-
 </p>
 
 
-### My Socials
+### 🌐 My Socials
 
 <p align="left"> <a href="https://www.codepen.io/LazerCodes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/laz3rofficial" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/LazerCodes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/dragatakis_manos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/22068840/lazercodes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@LazerCodesGR" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/Lazerofficial" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 
 
 
-## <b>My GitHub Stats</b>
+## 📊<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/LazerCodes"><img src="https://github-readme-stats.vercel.app/api?username=LazerCodes&show_icons=true&hide=commits,issues,&title_color=3382ed&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="LazerCodes's GitHub stats" /></a>
 
-### Support Me 
+### ⭐Support Me 
 
 <ul style="list-style-type: none; margin: 0;">
 
