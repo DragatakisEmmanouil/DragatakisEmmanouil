@@ -1,16 +1,16 @@
 Yo! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is 𝐋𝐀𝐙𝐄𝐑
 ==================================================================================================================================
 
-💻• I'm Front-Back End Developer
+💻• I'm Full Stack Front-End Developer
 ----------------------------
 
 🗒️• Keep fighting with determination! Never let your fire go out! Keep your focus even stronger and you will soon reach the pinnacle of your achievements!
 
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [dragatakisemm@gmail.com](mailto:dragatakisemm@gmail.com)
-* 🚀  I'm currently working on [Orion Network](http://discord.gg/cRTfFaZB6k)
-* 🎯  I'm learning FiveM Development & more...
-* 🎓  Computer Science Department
+* 🚀  I'm currently working on [Orion Studios Network](http://discord.gg/cRTfFaZB6k)
+* 🎯  Developer Since 2018
+* 🎓  Computer Science | UoC
 
 <a href="https://www.github.com/LazerCodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LazerCodes?logo=github&style=for-the-badge&color=0891b2&labelColor=000000"/></a>
