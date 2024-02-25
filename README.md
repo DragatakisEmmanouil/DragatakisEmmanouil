@@ -9,7 +9,6 @@ Yo! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 * 🌍  I'm based in Greece
 * ✉️  You can contact me at [dragatakisemm@gmail.com](mailto:dragatakisemm@gmail.com)
 * 🚀  I'm currently working on [Orion Studios Network](http://discord.gg/cRTfFaZB6k)
-* 🎯  Developer Since 2018
 * 🎓  Computer Science | UoC
 
 <a href="https://www.github.com/LazerCodes" target="_blank" rel="noreferrer"><img
@@ -36,7 +35,7 @@ src="https://img.shields.io/github/followers/LazerCodes?logo=github&style=for-th
 
 <a href="http://www.github.com/LazerCodes"><img src="https://github-readme-stats.vercel.app/api?username=LazerCodes&show_icons=true&hide=commits,issues,&title_color=3382ed&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="LazerCodes's GitHub stats" /></a>
 
-### ⭐Support Me 
+## ⭐Support Me 
 
 <ul style="list-style-type: none; margin: 0;">
 
