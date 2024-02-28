@@ -40,6 +40,6 @@ src="https://img.shields.io/github/followers/LazerCodes?logo=github&style=for-th
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/dragatakisg"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-<li style="display: inline-block; margin-right: 0.25rem;"><a href = "https://paypal.me/dragatakisemm"> <img src ="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href = "https://paypal.me/dragatakisemm"> <img src ="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white width="150 border-radius: 5px;"/></a></li>
 
 </ul>
