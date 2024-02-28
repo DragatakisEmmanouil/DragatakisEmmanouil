@@ -1,4 +1,4 @@
-Hello There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) You can call me 𝐋𝐀𝐙𝐄𝐑 
+Hello There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm 𝐋𝐀𝐙𝐄𝐑 
 ==================================================================================================================================
 
 💻• I'm Full Stack Front-End Developer
@@ -6,7 +6,7 @@ Hello There! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 🗒️• Keep fighting with determination! Never let your fire go out! Keep your focus even stronger and you will soon reach the pinnacle of your achievements!
 
-* 🌍  I'm based in Greece
+* 🌍  I'm based in Greece 🇬🇷
 * ✉️  You can contact me at [dragatakisemm@gmail.com](mailto:dragatakisemm@gmail.com)
 * 🚀  I'm currently working on [Orion Studios Network](http://discord.gg/cRTfFaZB6k)
 * 🎓  Computer Science | UoC
