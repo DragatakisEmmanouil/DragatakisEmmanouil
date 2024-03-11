@@ -8,7 +8,6 @@ Hello There! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 
 * 🌍  I'm based in Greece 🇬🇷
 * ✉️  You can contact me at [dragatakisemm@gmail.com](mailto:dragatakisemm@gmail.com)
-* 🚀  Front-End Developer At [Orion Studios Network](http://discord.gg/cRTfFaZB6k)
 * 🎓  Computer Science | UoC
 
 <a href="https://www.github.com/LazerCodes" target="_blank" rel="noreferrer"><img
