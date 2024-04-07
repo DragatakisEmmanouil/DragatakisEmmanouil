@@ -25,8 +25,7 @@ src="https://img.shields.io/github/followers/LazerCodes?logo=github&style=for-th
 <a href="https://codepen.io/lazercodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lazercodes" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22068840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22068840" height="30" width="40" /></a>
 <a href="https://instagram.com/dragatakis_manos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dragatakis_manos" height="30" width="40" /></a>
-<a href="https://discord.gg/nVaG24326c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nVaG24326c" height="30" width="40" /></a>
-</p>
+<a href = "#">More Soon..</a>
 
 
 ## 📊<b>My GitHub Stats</b>
