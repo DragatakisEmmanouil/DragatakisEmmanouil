@@ -29,7 +29,7 @@ height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer
 
 ## 📊<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DragatakisEmmanouil"><img src="https://github-readme-stats.vercel.app/api?username=LazerCodes&show_icons=true&hide=commits,issues,&title_color=3382ed&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="LazerCodes's GitHub stats" /></a>
+<a href="http://www.github.com/DragatakisEmmanouil"><img src="https://github-readme-stats.vercel.app/api?username=DragatakisEmmanouil&show_icons=true&hide=commits,issues,&title_color=3382ed&text_color=ffffff&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="LazerCodes's GitHub stats" /></a>
 
 ## ⭐Support Me 
 
