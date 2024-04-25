@@ -10,8 +10,8 @@ Hello There! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 * ✉️  You can contact me at [dragatakisemm@gmail.com](mailto:dragatakisemm@gmail.com)
 * 🎓  Computer Science | UoC
 
-<a href="https://www.github.com/LazerCodes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/LazerCodes?logo=github&style=for-the-badge&color=0891b2&labelColor=000000"/></a>
+<a href="https://www.github.com/DragatakisEmmanouil" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/DragatakisEmmanouil?logo=github&style=for-the-badge&color=0891b2&labelColor=000000"/></a>
 
 ## 🧠 My Tech Skills
 
