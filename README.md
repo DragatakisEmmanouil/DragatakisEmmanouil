@@ -1,7 +1,7 @@
 Hello There! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i'm Emmanouil
 ==================================================================================================================================
 
-💻• I'm Full Stack Front-End Developer
+💻• I'm Front-End Developer
 ----------------------------
 
 🗒️• Keep fighting with determination! Never let your fire go out! Keep your focus even stronger and you will soon reach the pinnacle of your achievements!
