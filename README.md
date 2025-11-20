@@ -31,7 +31,7 @@
 <p align="center">
 
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,js,mongodb" />
 
 <br/>
 
