@@ -79,7 +79,7 @@
 # 📬 Contact Me
 
 📧 Email: **dragatakisemm@gmail.com**  
-💸 PayPal: **https://paypal.me/DragakisEmm**
+💸 PayPal: **https://paypal.me/DragatakisEmm**
 
 ---
 
