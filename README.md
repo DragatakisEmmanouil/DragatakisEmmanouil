@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- Avatar -->
-  <img src="./assets/avatar.png" width="160" style="border-radius: 50%; box-shadow: 0 0 25px #8b39fa;" />
+  <img src="./assets/mainLogo.png" width="160" style="border-radius: 50%; box-shadow: 0 0 25px #8b39fa;" />
 </p>
 
 <h2 align="center">🚀 Full Stack Developer • 🎓 CS Student @ UOC • 🇬🇷 Based in Greece</h2>
