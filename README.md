@@ -68,7 +68,6 @@
 ---
 
 # 💼 Featured Projects
-*(Μπορώ να σου τα γράψω αυτά αν μου στείλεις repos)*
 
 - 🔥 Project 1 — Coming soon  
 - ⚡ Project 2 — Coming soon  
