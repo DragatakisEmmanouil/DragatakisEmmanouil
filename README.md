@@ -20,7 +20,7 @@
 
 - 🎓 **Computer Science student** @ University of Crete  
 - ⚡ Passionate **Full Stack Developer**  
-- 🎨 Love modern UI/UX, animations & 3D effects  
+- 🎨 Love modern UI/UX
 - 🧪 Building beautiful, fast interfaces  
 - 📌 Based in **Greece**
 
@@ -31,17 +31,17 @@
 <p align="center">
 
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=html,css,js,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mongodb" />
 
 <br/>
 
 <!-- Frameworks -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,sass,redux,bootstrap" />
 
 <br/>
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,figma,nodejs,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,nodejs,vscode,discord,npm" />
 
 </p>
 
