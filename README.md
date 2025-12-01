@@ -8,10 +8,10 @@
   <img src="./assets/main.png" width="160" style="border-radius: 50%; box-shadow: 0 0 25px #8b39fa;" />
 </p>
 
-<h2 align="center">🚀 Full Stack Developer</h2>
+<h2 align="center">🚀 Front End Developer</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&center=true&vCenter=true&width=700&size=28&color=A855F7&lines=Front-End+Developer;Full+Stack+Developer;Clean+UI%2FUX+Enthusiast;Always+Learning+New+Tech+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2600&pause=900&center=true&vCenter=true&width=700&size=28&color=A855F7&lines=Front-End+Developer;Front+End+Developer;Clean+UI%2FUX+Enthusiast;Always+Learning+New+Tech+%F0%9F%9A%80" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 # 🧑‍💻 About Me
 
 - 🎓 **Computer Science student** @ University of Crete  
-- ⚡ Passionate **Full Stack Developer**  
+- ⚡ Passionate **Learning new things...**  
 - 🎨 Love modern UI/UX
 - 🧪 Building beautiful, fast interfaces  
 - 📌 Based in **Greece**
