@@ -58,7 +58,7 @@
 
 # 💼 Featured Projects
 
-- 🔥 Project 1 — Coming soon  
+- 🔥 Project 1 — https://fvlassis.gr
 - ⚡ Project 2 — Coming soon  
 - 🚀 Project 3 — Coming soon  
 
