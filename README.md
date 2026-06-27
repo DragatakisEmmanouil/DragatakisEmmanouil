@@ -21,7 +21,6 @@
 - 🎓 **Computer Science student** @ University of Crete  
 - ⚡ Passionate **Learning new things...**  
 - 🎨 Love modern UI/UX
-- 🥷 Backend problems solver
 - 🧪 Building beautiful, fast interfaces  
 - 📌 Based in **Greece**
 
