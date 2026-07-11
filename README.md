@@ -20,8 +20,6 @@
 
 - 🎓 **Computer Science student** @ University of Crete  
 - ⚡ Passionate **Learning new things...**  
-- 🎨 Love modern UI/UX
-- 🧪 Building beautiful, fast interfaces  
 - 📌 Based in **Greece**
 
 ---
