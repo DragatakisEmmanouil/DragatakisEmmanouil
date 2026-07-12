@@ -103,16 +103,16 @@
   <rect x="320" y="65" width="500" height="350" fill="none" stroke="#008f99" stroke-width="1" rx="5" />
   
   <g class="text-mono" transform="translate(340, 95)">
-    <text y="0" font-size="12" class="gray">console</text>
+    <text y="0" font-size="12" class="gray">console.log...</text>
     
     <!-- USERNAME -->
-    <text y="35" font-size="28" font-weight="bold" class="white" filter="url(#neon-cyan)">ΤΟ_ΟΝΟΜΑ_ΣΟΥ</text>
+    <text y="35" font-size="28" font-weight="bold" class="white" filter="url(#neon-cyan)">Emmanouil Dragatakis</text>
     
     <!-- DETAILS -->
-    <text y="70" font-size="14" class="cyan">SYSTEM ID: <tspan class="white">CSD/99 Underground</tspan></text>
+    <text y="70" font-size="14" class="cyan">SYSTEM ID: <tspan class="white">Computer Science Student</tspan></text>
     <text y="90" font-size="12" class="gray">(retained from &lt;NODE_01&gt;)</text>
     
-    <text y="120" font-size="14" class="cyan">ROLE: <tspan class="white">Front-End Developer / CSD Student</tspan></text>
+    <text y="120" font-size="14" class="cyan">ROLE: <tspan class="white">Front-End Developer</tspan></text>
     <text y="140" font-size="12" class="gray">(clarified from &lt;UNIV_DB&gt;)</text>
 
     <text y="170" font-size="14" class="cyan">Origin: <tspan class="white">Greece, GR</tspan></text>
@@ -125,8 +125,8 @@
     <!-- Using hex colors and symbols for a super-hacker look -->
     <text y="275" font-size="14">  <tspan class="white">JS/TS </tspan> <tspan class="green">[#########-]</tspan> <tspan class="cyan">90%</tspan></text>
     <text y="295" font-size="14">  <tspan class="white">React </tspan> <tspan class="green">[########--]</tspan> <tspan class="cyan">80%</tspan></text>
-    <text y="315" font-size="14">  <tspan class="white">CSS   </tspan> <tspan class="green">[##########]</tspan> <tspan class="cyan">95%</tspan></text>
-    <text y="335" font-size="14">  <tspan class="white">C/C++ </tspan> <tspan class="green">[######----]</tspan> <tspan class="cyan">60%</tspan></text>
+    <text y="315" font-size="14">  <tspan class="white">Web App Accessibilities  </tspan> <tspan class="green">[##########]</tspan> <tspan class="cyan">95%</tspan></text>
+    <text y="335" font-size="14">  <tspan class="white">CI/CD </tspan> <tspan class="green">[######----]</tspan> <tspan class="cyan">60%</tspan></text>
   </g>
 
   <!-- 5. Animated Scanline (Overlay) -->
