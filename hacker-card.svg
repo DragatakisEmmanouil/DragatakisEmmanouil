@@ -78,7 +78,7 @@
   <circle cx="35" cy="32" r="6" fill="#ff5f56" />
   <circle cx="55" cy="32" r="6" fill="#ffbd2e" />
   <circle cx="75" cy="32" r="6" fill="#27c93f" />
-  <text x="425" y="37" class="text-mono cyan-dim" font-size="14" text-anchor="middle" letter-spacing="2">HACKER IDENTIFICATION CARD.</text>
+  <text x="425" y="37" class="text-mono cyan-dim" font-size="14" text-anchor="middle" letter-spacing="2">Developer IDENTIFICATION CARD.</text>
 
   <!-- 3. Left Panel: BIOMETRIC RADAR -->
   <rect x="30" y="65" width="270" height="350" fill="none" stroke="#008f99" stroke-width="1" rx="5" />
@@ -97,13 +97,13 @@
   <!-- "Target" indicator -->
   <circle cx="210" cy="190" r="4" fill="#ff003c" filter="url(#neon-cyan)" class="blink"/>
   
-  <text x="45" y="395" class="text-mono cyan" font-size="12">AUTHENTICATION: <tspan class="white">Biometric (Left Scan)</tspan></text>
+  <text x="45" y="395" class="text-mono cyan" font-size="12">AUTHENTICATION: <tspan class="white">Not Available..</tspan></text>
 
   <!-- 4. Right Panel: DATA & STATS -->
   <rect x="320" y="65" width="500" height="350" fill="none" stroke="#008f99" stroke-width="1" rx="5" />
   
   <g class="text-mono" transform="translate(340, 95)">
-    <text y="0" font-size="12" class="gray">console.log...</text>
+    <text y="0" font-size="12" class="gray">console</text>
     
     <!-- USERNAME -->
     <text y="35" font-size="28" font-weight="bold" class="white" filter="url(#neon-cyan)">Emmanouil Dragatakis</text>
@@ -113,7 +113,7 @@
     <text y="90" font-size="12" class="gray">(retained from &lt;NODE_01&gt;)</text>
     
     <text y="120" font-size="14" class="cyan">ROLE: <tspan class="white">Front-End Developer</tspan></text>
-    <text y="140" font-size="12" class="gray">(clarified from &lt;UNIV_DB&gt;)</text>
+    <text y="140" font-size="12" class="gray">(clarified from &lt;UNIV_CSD_UOC_DB&gt;)</text>
 
     <text y="170" font-size="14" class="cyan">Origin: <tspan class="white">Greece, GR</tspan></text>
     <text y="190" font-size="14" class="cyan">Status: <tspan class="green blink">Active</tspan></text>
@@ -125,8 +125,8 @@
     <!-- Using hex colors and symbols for a super-hacker look -->
     <text y="275" font-size="14">  <tspan class="white">JS/TS </tspan> <tspan class="green">[#########-]</tspan> <tspan class="cyan">90%</tspan></text>
     <text y="295" font-size="14">  <tspan class="white">React </tspan> <tspan class="green">[########--]</tspan> <tspan class="cyan">80%</tspan></text>
-    <text y="315" font-size="14">  <tspan class="white">Web App Accessibilities  </tspan> <tspan class="green">[##########]</tspan> <tspan class="cyan">95%</tspan></text>
-    <text y="335" font-size="14">  <tspan class="white">CI/CD </tspan> <tspan class="green">[######----]</tspan> <tspan class="cyan">60%</tspan></text>
+    <text y="335" font-size="14">  <tspan class="white">CI/CD </tspan> <tspan class="green">[#######---]</tspan> <tspan class="cyan">70%</tspan></text>
+    <text y="315" font-size="14">  <tspan class="white">Web App Accessibilities  </tspan> <tspan class="green">[##########]</tspan> <tspan class="cyan">100%</tspan></text>
   </g>
 
   <!-- 5. Animated Scanline (Overlay) -->
