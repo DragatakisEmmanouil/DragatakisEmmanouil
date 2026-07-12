@@ -113,7 +113,7 @@
     <text y="90" font-size="12" class="gray">(retained from &lt;NODE_01&gt;)</text>
     
     <text y="120" font-size="14" class="cyan">ROLE: <tspan class="white">Front-End Developer</tspan></text>
-    <text y="140" font-size="12" class="gray">(clarified from &lt;UNIV_CSD_UOC_DB&gt;)</text>
+    <text y="140" font-size="12" class="gray">(clarified from &lt;UNIV_CSD_UOC_DB&gt;)</text> 
 
     <text y="170" font-size="14" class="cyan">Origin: <tspan class="white">Greece, GR</tspan></text>
     <text y="190" font-size="14" class="cyan">Status: <tspan class="green blink">Active</tspan></text>
