@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="hacker-card.svg" alt="Hacker Identity Card" width="100%" />
+  <img src="hacker-card.svg" alt="Emmanouil Dragatakis Developer ID" width="100%" />
 </div>
