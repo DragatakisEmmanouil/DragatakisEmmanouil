@@ -125,7 +125,6 @@
     <!-- Using hex colors and symbols for a super-hacker look -->
     <text y="275" font-size="14">  <tspan class="white">JS/TS </tspan> <tspan class="green">[#########-]</tspan> <tspan class="cyan">90%</tspan></text>
     <text y="295" font-size="14">  <tspan class="white">React </tspan> <tspan class="green">[########--]</tspan> <tspan class="cyan">80%</tspan></text>
-    <text y="335" font-size="14">  <tspan class="white">CI/CD </tspan> <tspan class="green">[#######---]</tspan> <tspan class="cyan">70%</tspan></text>
     <text y="315" font-size="14">  <tspan class="white">Web App Accessibilities  </tspan> <tspan class="green">[##########]</tspan> <tspan class="cyan">100%</tspan></text>
   </g>
 
